@@ -4,5 +4,7 @@
 
 pictures/
 
+loss_demo.ipynb
 colormaps.ipynb
-df_group.xlsx
+*.xlsx
+!DataBase.xlsx
