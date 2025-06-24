@@ -8,3 +8,4 @@ loss_demo.ipynb
 colormaps.ipynb
 *.xlsx
 !DataBase.xlsx
+!diff_RSV_rate.xlsx
