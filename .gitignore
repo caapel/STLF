@@ -5,7 +5,6 @@
 pictures/
 
 loss_demo.ipynb
-colormaps.ipynb
+holiday_demo.ipynb
 *.xlsx
 !DataBase.xlsx
-!diff_RSV_rate.xlsx
