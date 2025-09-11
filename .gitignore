@@ -3,8 +3,12 @@
 */.ipynb_checkpoints/*
 
 pictures/
+catboost_info/
 
 loss_demo.ipynb
 holiday_demo.ipynb
 *.xlsx
 !DataBase.xlsx
+CatBoost_br2_act_LC.ipynb
+CatBoost_br2_act_default.ipynb
+CatBoost_br3_act.ipynb
