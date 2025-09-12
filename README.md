@@ -3,7 +3,7 @@
 This repository contains the source materials and calculation results used in the study [***Short-Term Forecasting of Regional Electrical Load Based on XGBoost Model***](https://doi.org/)
 
 ### validation result (01/01/2025 - 01/06/2025)
-| Month / <br> MAPE |  XGBoost<br> br3_pred | XGBoost<br> br3_act | XGBoost<br> br3_act_LC<br> (y:6, md:6) | XGBoost<br> br2_act_LC<br> (y:10, md:5) | CatBoost<br> br3_pred | CatBoost<br> br2_act_LC(y:10, md:5) | ARIMA<br> default |
+| Month / <br> MAPE |  XGBoost<br> br3_pred | XGBoost<br> br3_act | XGBoost<br> br3_act_LC<br> (y:6, md:6) | XGBoost<br> br2_act_LC<br> (y:10, md:5) | CatBoost<br> br3_pred | CatBoost<br> br2_act_LC | ARIMA<br> default |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | January | 1.605% | **1.576%** | 1.640% | 1.636% | 1.616% | 1.827% | 11.248% |
 | February |  1.233% | 1.246% | **1.196%** | 1.242% | 1.154% | 1.194% | 11.446% |
