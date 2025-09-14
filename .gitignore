@@ -10,6 +10,12 @@ loss_demo.ipynb
 holiday_demo.ipynb
 *.xlsx
 !DataBase.xlsx
+!diff_RSV_rate.xlsx
 
 Validator_br3_act_test_max.ipynb
 Validator_br3_act_test_min.ipynb
+
+!Predicted(br_3_pred)Jan_May_2025.xlsx
+!Predicted(br_3_act)Jan_May_2025.xlsx
+!Predicted(br_3_act)Jan_May_2025_LC(6,6).xlsx
+!Predicted(br_2_act)Jan_May_2025_LC(10,5).xlsx
