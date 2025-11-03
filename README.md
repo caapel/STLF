@@ -1,6 +1,6 @@
 # Short-Term Load Forecasting Based on XGBoost Model
 
-This repository contains the source materials and calculation results used in the study [***Short-Term Forecasting of Regional Electrical Load Based on XGBoost Model***](https://doi.org/)
+This repository contains the source materials and calculation results used in the study [***Short-Term Forecasting of Regional Electrical Load Based on XGBoost Model***](https://doi.org/10.3390/en18195144)
 
 ### validation result (01/01/2025 - 01/06/2025)
 | Month / <br> MAPE |  XGBoost<br> br3_pred | XGBoost<br> br3_act | XGBoost<br> br3_act_LC<br> (y:6, md:6) | XGBoost<br> br2_act_LC<br> (y:10, md:5) | CatBoost<br> br3_pred | CatBoost<br> br2_act_LC | ARIMA<br> default |
